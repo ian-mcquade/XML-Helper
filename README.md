@@ -15,4 +15,14 @@ XML-Helper is a Python script that allows users to remove specific elements from
 
 1. Clone this repository or download the ZIP file.
 2. Navigate to the project directory.
-3. Install the required dependencies using pip:
+3. Install the required dependencies using pip
+
+
+## How To Use
+
+1.  run the script ```bash
+    python XML_field_remover.py
+    ```
+
+2. Type the string you want to search for and comment out in the Target String box.
+3. Click the Select and Process Files button and select 1 or more XML files. 

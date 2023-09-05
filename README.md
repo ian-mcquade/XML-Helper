@@ -10,6 +10,9 @@ XML-Helper is a Python script that allows users to remove specific elements from
 
 - Python 3.x
 - lxml
+- tkinter
+
+  Note: tkinter usually comes pre installed with Python
 
 ## Installation
 

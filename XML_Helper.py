@@ -77,10 +77,6 @@ root.title("XML Helper")
 # Set window size
 root.geometry("600x300")
 
-#Description Information
-description = tk.Message(root, text="Type in the string you are searching for, then click the 'Select and Process Files' button ")
-description.pack()
-
 # Target string entry
 target_string_label = tk.Label(root, text="Target String:")
 target_string_label.pack()
